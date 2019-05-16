@@ -1,0 +1,13 @@
+C:\Users\Minasy\Desktop\sings\Projekat Baze Podataka Filip Vjestica\Filip Vjestica - Salon Keramike\bin\Debug\Filip Vjestica - Salon Keramike.exe.config
+C:\Users\Minasy\Desktop\sings\Projekat Baze Podataka Filip Vjestica\Filip Vjestica - Salon Keramike\bin\Debug\Filip Vjestica - Salon Keramike.exe
+C:\Users\Minasy\Desktop\sings\Projekat Baze Podataka Filip Vjestica\Filip Vjestica - Salon Keramike\bin\Debug\Filip Vjestica - Salon Keramike.pdb
+C:\Users\Minasy\Desktop\sings\Projekat Baze Podataka Filip Vjestica\Filip Vjestica - Salon Keramike\obj\Debug\Filip Vjestica - Salon Keramike.csprojAssemblyReference.cache
+C:\Users\Minasy\Desktop\sings\Projekat Baze Podataka Filip Vjestica\Filip Vjestica - Salon Keramike\obj\Debug\Filip Vjestica - Salon Keramike.csproj.CoreCompileInputs.cache
+C:\Users\Minasy\Desktop\sings\Projekat Baze Podataka Filip Vjestica\Filip Vjestica - Salon Keramike\obj\Debug\Filip Vjestica - Salon Keramike.exe
+C:\Users\Minasy\Desktop\sings\Projekat Baze Podataka Filip Vjestica\Filip Vjestica - Salon Keramike\obj\Debug\Filip Vjestica - Salon Keramike.pdb
+C:\Users\Minasy\Desktop\sings\Projekat Baze Podataka Filip Vjestica\Filip Vjestica - Salon Keramike\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Minasy\Desktop\sings\Projekat Baze Podataka Filip Vjestica\Filip Vjestica - Salon Keramike\bin\Debug\Google.Protobuf.dll
+C:\Users\Minasy\Desktop\sings\Projekat Baze Podataka Filip Vjestica\Filip Vjestica - Salon Keramike\bin\Debug\MySql.Data.dll
+C:\Users\Minasy\Desktop\sings\Projekat Baze Podataka Filip Vjestica\Filip Vjestica - Salon Keramike\bin\Debug\Google.Protobuf.xml
+C:\Users\Minasy\Desktop\sings\Projekat Baze Podataka Filip Vjestica\Filip Vjestica - Salon Keramike\bin\Debug\MySql.Data.xml
+C:\Users\Minasy\Desktop\sings\Projekat Baze Podataka Filip Vjestica\Filip Vjestica - Salon Keramike\obj\Debug\Filip Vjestica - Salon Keramike.csproj.CopyComplete
